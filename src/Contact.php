@@ -34,6 +34,11 @@
             return $this->last_name;
         }
 
+        function fullName()
+        {
+            return $this->first_name . " " . $this->last_name;
+        }
+        
     }
 
 ?>
