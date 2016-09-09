@@ -21,8 +21,6 @@ This is an address book application where you can store contact information for 
 
 ## Setup/Installation Requirements
 
-* To view right now in web browser, visit: https://lisamaccarrigan.github.io/PHP-AddressBook
-
 * If editing:
     + Clone this repository: https://github.com/LisaMacCarrigan/PHP-AddressBook.git
     + OPEN project folder ('PHP-AddressBook') in Code Editor of choice
