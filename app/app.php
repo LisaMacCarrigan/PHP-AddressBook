@@ -18,6 +18,10 @@
         return $app['twig']->render('home.html.twig');
     });
 
+    $app->post("/create_contact", function() use ($app) {
+        return $app['twig']->render('new_contact.html.twig');
+    });
+
     return $app;
 
 ?>
