@@ -12,12 +12,12 @@ This is an address book application where you can store contact information for 
 
 #### 1. A user enters their first name and last name, selects 'Add', and is taken to a different page at the URL /create_contact, which displays their name.
 
-* Example Input: First Name: "Lisa"
-                 Last Name: "MacCarrigan"
-* Example Output: "You created a contact!
-                   First Name: Lisa"
+* Example Input: First Name: Lisa
+                 Last Name: MacCarrigan
+* Example Output: You created a contact!
+                  Full Name: Lisa MacCarrigan
 
-#### 2.
+#### 2. A user enters their phone number, selects 'Add', and is taken to a different page at the URL /create_contact, which displays their phone number.
 
 ## Setup/Installation Requirements
 
