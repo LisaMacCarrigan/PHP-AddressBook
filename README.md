@@ -10,10 +10,13 @@ This is an address book application where you can store contact information for 
 
 ## Specifications
 
-#### 1. Placeholder for specifications.
+#### 1. A user enters their name, selects 'Add', and is taken to a different page at the URL /create_contact, which displays their name.
 
-* Example Input:
-* Example Output:
+* Example Input: "Lisa MacCarrigan"
+* Example Output: "You created a contact!
+                   Name: Lisa MacCarrigan"
+
+#### 2.
 
 ## Setup/Installation Requirements
 
