@@ -35,12 +35,12 @@ For comments or questions, please email Lisa.MacCarrigan@gmail.com
 
 ## Technologies Used
 
-HTML
-PHP
-Silex (PHP micro-framework)
-Twig (PHP template engine)
-<!-- CSS -->
-<!-- Bootstrap version 3.3.7. -->
+* HTML
+* PHP
+* Silex (PHP micro-framework)
+* Twig (PHP template engine)
+<!-- * CSS
+* Bootstrap version 3.3.7. -->
 
 ### License
 
